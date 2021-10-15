@@ -40,7 +40,7 @@ public class Main {
         }
         return matrixInput;
     }
-    
+
 
     private static int[][] parsingString(){
         int[][] matrix = new int[rowSize][columnSize];
